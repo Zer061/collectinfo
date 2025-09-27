@@ -1,0 +1,17 @@
+test:
+
+Getting current location coordinates...
+Attempting to get current location...
+Location found using Windows Location API:
+Latitude: 20.9957357851948
+Longitude: 105.804274541264
+Accuracy: 90 meters
+
+=== LOCATION RESULTS ===
+Method: Windows API
+Latitude: 20.9957357851948
+Longitude: 105.804274541264
+Accuracy: 90 meters
+Google Maps: https://www.google.com/maps?q=20.9957357851948,105.804274541264
+
+Script completed.
